@@ -11,26 +11,12 @@ SpringBoot 框架，充电桩平台+充电桩系统+充电平台+充电桩+互�
 软件架构说明 智电云新能源汽车充电平台，Java语言，spring boot + mybatis +Sqlserver ，源码无加密，稳定运行； 源码包含端微信小程序源码、管理平台源码、互联互通接口、数据库部分；
 
 
-# 快速了解
-   
-当前版本：V2.0.1
-   
-[🔥 充电平台介绍](https://gitee.com/clear-wind011/yuanma0001)
-   
-[🔥 充电管理后台展示](https://gitee.com/clear-wind011/yuanma0001)
-   
-[🔥 充电小程序展示](https://gitee.com/clear-wind011/yuanma0001)   
-
 软件界面展示
 小程序客户端和管理平台：
-![extending-a-theme](/图片1.png)
-![extending-a-theme](/图片2.png)
-![extending-a-theme](/图片3.png)
-![extending-a-theme](/图片4.png)
-![extending-a-theme](/图片5.png)
-![extending-a-theme](/图片6.png)
-![extending-a-theme](/图片7.png)
-![extending-a-theme](/图片8.png)
+![extending-a-theme](/001.png)
+![extending-a-theme](/002.png)
+![extending-a-theme](/003.png)
+![extending-a-theme](/004.png)
 ![extending-a-theme](/图片9.png)
 ![extending-a-theme](/图片10.png)
 ![extending-a-theme](/图片11.png)
