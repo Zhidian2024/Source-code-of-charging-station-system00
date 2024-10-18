@@ -29,6 +29,6 @@ SpringBoot 框架，充电桩平台+充电桩系统+充电平台+充电桩+互�
 ![extending-a-theme](/图片13.png)
 ![extending-a-theme](/图片14.png)
 ![extending-a-theme](/图片15.png)
-![extending-a-theme](/微信图片_20240709101914.jpg)
+![extending-a-theme](/lianxi.jpg)
 
 
