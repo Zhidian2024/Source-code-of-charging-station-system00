@@ -15,7 +15,8 @@ SpringBoot 框架，充电桩平台+充电桩系统+充电平台+充电桩+互�
 提供完整源代码，自己可以对接充电桩进行测试和调试；
 
 完整充电产品举例（底层是云快充1.5协议支持）
-![extending-a-theme](/000.png)
+![000](https://github.com/user-attachments/assets/999ba9ad-2fca-4682-b2ba-93d9075baf18)
+
 
 #### 软件界面展示
 
